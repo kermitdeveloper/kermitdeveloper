@@ -1,14 +1,7 @@
+<br clear="both">
 
-
-###
-
-
-
-###
-
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/1271017558824456203/a_73ee726b01792e59e1d3a26b16c56d21.gif"  />
+<div align="center">
+  <img height="600" src="https://i.pinimg.com/564x/55/ba/01/55ba0115e6b086e80ddd6e4f821ce519.jpg"  />
+</div>
 
 ###
-
-
-
