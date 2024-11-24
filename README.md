@@ -17,7 +17,7 @@
 **Weeb Developer and Gamer** 
 
 ## **☕ About me**
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1282771930436468831/1306123571407618108/6483-raidlead-thisisfine.png?ex=673585de&is=6734345e&hm=f042a29a6fc0025b1520dec0d6782f5df59fc3a71cbaf35381e2c0dd525ce500&"></a>
+<a href="https://github.com/kermitdeveloper"><img align="left" width="100" src="https://media.discordapp.net/attachments/1282771930436468831/1306123571407618108/6483-raidlead-thisisfine.png?ex=6744065e&is=6742b4de&hm=6b0755d609bd64e0a45991f020d7a4de10d97ebe0f158d3b3db10e1fc685bf68&=&format=webp&quality=lossless"></a>
 I'm TheKermit, and my hobbies include gaming, watching movies, listening to music, and sometimes tinkering with random stuff like coding.
 <br><br>
 
